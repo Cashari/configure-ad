@@ -48,6 +48,6 @@ After installing active directory. Go to tools, look for active directory users 
 <img src="https://imgur.com/1ORmur9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From active directory you can do a lot for your organization, such as creating password, users, groups and organization units given permission and asses. with so much more
+From active directory you can do a lot for your organization, such as creating password, users, groups and organization units, given permission and asses, and so much more
 </p>
 <br />
