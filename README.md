@@ -32,7 +32,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://imgur.com/L2SDPq6.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-Created virtual machine on azure and remoted into the server. from server manager click add roles and feature to install active directory.
+Created virtual machine on azure and remoted into the server. From server manager, you click add roles and features to install active directory.
 </p>
 <br />
 
@@ -48,6 +48,6 @@ After installing active directory. Go to tools, look for active directory users 
 <img src="https://imgur.com/1ORmur9.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
-From active directory you can do a lot for your organization, such as creating password, users, groups and organization units, given permission and asses, and so much more
+From active directory a lot can be done for your organization. Such as creating password, users, groups and organization units, granting permission and access and much more
 </p>
 <br />
